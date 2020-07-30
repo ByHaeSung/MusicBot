@@ -552,7 +552,7 @@ class Music(commands.Cog):
 
 	@commands.command(name = "종료", aliases = ["ㅈㄹ"])
 	async def shutdown_(self, ctx: commands.Context):
-		 """봇 종료"""
+		"""봇 종료"""
 		await ctx.send("뮤직봇 종료")
 		return await self.bot.close()
 
