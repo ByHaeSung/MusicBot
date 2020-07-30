@@ -1,25 +1,14 @@
 # -*- coding: utf-8 -*- 
 
-import os
+import os,logging, asyncio, random, itertools, math, time
 import discord
 from discord.ext import commands
 from discord.ext.commands import CommandNotFound
-import logging
-import asyncio
-import itertools
-import sys
-import traceback
-import random
-import itertools
-import math
-from async_timeout import timeout
-from functools import partial
 import functools
-from youtube_dl import YoutubeDL
+from functools import partial
 import youtube_dl
+from youtube_dl import YoutubeDL
 from io import StringIO
-import time
-import urllib.request
 from gtts import gTTS
 
 ##################### 로깅 ###########################
