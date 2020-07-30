@@ -4,7 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ByHaeSung/MusicBot)](https://github.com/ByHaeSung/MusicBot/stargazers)
 ![GitHub All Releases](https://img.shields.io/github/downloads/ByHaeSung/MusicBot/total)
 
-> Valentin B.의 music_bot_example.py를 기반으로 스트리밍 방식으로 제작한 뮤직봇입니다.\
+> Valentin B.의 music_bot_example.py를 기반으로 하여 제작한 스트리밍 방식의 뮤직봇입니다.\
 > [[원본소스링크](https://gist.github.com/vbe0201/ade9b80f2d3b64643d854938d40a0a2d)]
 
 ## Requirements
